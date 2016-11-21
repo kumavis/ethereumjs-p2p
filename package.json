@@ -22,13 +22,13 @@
   },
   "homepage": "https://github.com/ethereum/ethereumjs-p2p",
   "dependencies": {
-    "async": "^0.9.0",
+    "async": "^2.1.2",
     "ethereumjs-util": "git+https://github.com/ethereum/ethereumjs-util",
-    "rlp": "0.0.12",
+    "rlp": "2.0.0",
     "server-destroy": "^1.0.0",
     "underscore": "^1.7.0"
   },
   "devDependencies": {
-    "mocha": "^2.1.0"
+    "mocha": "^3.1.2"
   }
 }
